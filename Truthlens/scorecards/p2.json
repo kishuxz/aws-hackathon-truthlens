@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "score": 25,
+  "label": "Low",
+  "contributions": [
+    {
+      "source": "USGS",
+      "tier": "P",
+      "stance": "contradict",
+      "weight": -30
+    },
+    {
+      "source": "Forum Post",
+      "tier": "C",
+      "stance": "support",
+      "weight": 5
+    }
+  ],
+  "bullets": [
+    "Contradicted by a Tier P source.",
+    "Supported by a Tier C source.",
+    "Total sources less than 2 and no Tier P source."
+  ],
+  "badges": [],
+  "citations": [
+    "USGS: No eruption detected in the region.",
+    "Forum Post: I saw lava!"
+  ],
+  "meta": {
+    "post_id": "p2",
+    "run_id": "r1",
+    "latency_ms": 150
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "score": 75,
+  "label": "Supported",
+  "contributions": [
+    {
+      "title": "AP",
+      "tier": "A",
+      "stance": "support"
+    },
+    {
+      "title": "City DOT",
+      "tier": "P",
+      "stance": "support"
+    }
+  ],
+  "bullets": [
+    "Airport closure due to snow confirmed by AP.",
+    "City DOT confirms all flights suspended due to weather.",
+    "Travel Blog provides unrelated context."
+  ],
+  "badges": [],
+  "citations": [
+    {
+      "title": "AP",
+      "tier": "A",
+      "snippet": "Airport announces closure due to snowfall."
+    },
+    {
+      "title": "City DOT",
+      "tier": "P",
+      "snippet": "All flights suspended today due to weather."
+    }
+  ],
+  "meta": {
+    "post_id": "p1",
+    "run_id": "7a093269-6513-4bbb-8cf3-bae81878c78e",
+    "latency_ms": 1057
+  }
+}

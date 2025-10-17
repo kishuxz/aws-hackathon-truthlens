@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "score": 55,
+  "label": "Uncertain",
+  "contributions": [
+    {
+      "source": "Fan Blog",
+      "tier": "C",
+      "stance": "support",
+      "score_impact": 5
+    }
+  ],
+  "bullets": [
+    "Single source present.",
+    "Source is Tier C.",
+    "No Tier A or P sources."
+  ],
+  "badges": [],
+  "citations": [
+    "Fan Blog"
+  ],
+  "meta": {
+    "post_id": "p3",
+    "run_id": "r1",
+    "latency_ms": 50
+  }
+}
