@@ -1,0 +1,16 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Notebook/state
+.ipynb_checkpoints
+
+# outputs / generated
+scorecards/
+*.log
+
+# secrets
+.env
