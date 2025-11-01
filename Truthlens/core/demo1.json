@@ -1,0 +1,8 @@
+{
+  "post_id": "demo1",
+  "post": "City airport closed due to snow.",
+  "sources": [
+    {"source":"AP","tier":"A","stance":"support"},
+    {"source":"City DOT","tier":"P","stance":"support"}
+  ]
+}

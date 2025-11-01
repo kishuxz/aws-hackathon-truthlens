@@ -3,32 +3,29 @@
   "score": 25,
   "label": "Low",
   "contributions": [
-    {
-      "source": "USGS",
-      "tier": "P",
-      "stance": "contradict",
-      "weight": -30
-    },
-    {
-      "source": "Forum Post",
-      "tier": "C",
-      "stance": "support",
-      "weight": 5
-    }
+    "-30: Tier A/P contradiction",
+    "+5: Tier B/C supports (capped)"
   ],
   "bullets": [
-    "Contradicted by a Tier P source.",
-    "Supported by a Tier C source.",
-    "Total sources less than 2 and no Tier P source."
+    "-30: Tier A/P contradiction",
+    "+5: Tier B/C supports (capped)"
   ],
   "badges": [],
   "citations": [
-    "USGS: No eruption detected in the region.",
-    "Forum Post: I saw lava!"
+    {
+      "title": "USGS",
+      "tier": "P",
+      "stance": "contradict"
+    },
+    {
+      "title": "Forum Post",
+      "tier": "C",
+      "stance": "support"
+    }
   ],
   "meta": {
     "post_id": "p2",
-    "run_id": "r1",
-    "latency_ms": 150
+    "run_id": "b687a7ae-3369-4b88-908e-90205d1652b9",
+    "latency_ms": 0
   }
 }

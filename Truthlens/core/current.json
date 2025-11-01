@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "base": 50,
+  "weights": {
+    "supports_from_tierA_or_P>=2": 25,
+    "contradicts_from_tierA_or_P>=1": -30,
+    "tierB_support": 15,
+    "tierC_support": 5
+  },
+  "ladder": [
+    {"label":"Supported","min":70},
+    {"label":"Uncertain","min":35},
+    {"label":"Low","min":0}
+  ],
+  "evidence_floor": {"min_sources": 2}
+}
